@@ -325,5 +325,12 @@ def main():
         main()
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     main()
 #This Comment Just for Git Project
+||||||| d793380
+    main()
+=======
+    main()
+# Edit one for Refactoring branch
+>>>>>>> refactoring
